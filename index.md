@@ -26,6 +26,6 @@
 
 
 
-5. ![Image](imageFile1600.jpj)
+5. ![Image](imageFile1600.jpg)
 
 
