@@ -3,7 +3,7 @@
 
 
 ---
-![Image](imageFile21600.jpeg)
+![Image](imageFil21600.jpeg)
 
 
 1. **ABOUT** : I am an aspiring Software Developer.
