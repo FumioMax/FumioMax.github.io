@@ -3,11 +3,13 @@
 
 
 ---
+![Image](imageFile21600.jpg)
+
+
 1. **ABOUT** : I am an aspiring Software Developer.
 
 
 2. **EDUCATION** : The educational qualifications are as follows -
-
 
 | S. No.|Type | Institute | Year |
 |-------|-----|-----------|------|
@@ -16,7 +18,6 @@
  
 
 3. **INTERESTS** : 
-
  	- Web Development
  	- Software Development
  	- Data Analysis[^1]
