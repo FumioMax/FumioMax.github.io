@@ -1,4 +1,7 @@
+<span style="color:red">
 # **PORTFOLIO WEBSITE**
+</span>
+
 
 ---
 1. **ABOUT** : I am an aspiring Software Developer.
@@ -17,15 +20,22 @@
 
  	- Web Development
  	- Software Development
- 	- Data Analysis
- 	
+ 	- Data Analysis[^1]
  	
 
 4. **Contact** :
 	- Email: 2023ucp1600@mnit.ac.in
 
 
-
 5. ![Image](imageFile1600.jpg)
+
+
+
+> [!IMPORTANT]
+> The purpose of this website is to showcase the achievements.
+
+
+[^1]: Only the basics.
+
 
 
