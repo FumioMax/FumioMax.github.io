@@ -22,8 +22,8 @@
 
 3. **INTERESTS** : 
  	- Web Development
- 	- Software Development
- 	- Data Analysis[^1]
+ 	- Reading
+ 	- Drawing
 ---
 	
 
@@ -33,7 +33,7 @@
 ---
 
 
-5. ![Image](imageFile1600.jpg)
+![Image](imageFile1600.jpg)
 ---
 
 
