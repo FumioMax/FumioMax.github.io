@@ -11,11 +11,11 @@
 
 2. **EDUCATION** : The educational qualifications are as follows -
 
-		| S. No.|Type | Institute | Year |
-		|-------|-----|-----------|------|
-		|1.     |School|DAV, Batala|Till 2023|
-		|2.     |College| MNIT, Jaipur| 2027|
- 
+	| S. No.|Type | Institute | Year |
+	|-------|-----|-----------|------|
+	|1.     |School|DAV, Batala|Till 2023|
+	|2.     |College| MNIT, Jaipur| 2027|
+
 
 3. **INTERESTS** : 
  	- Web Development
@@ -24,8 +24,8 @@
  	
 
 4. **CONTACT** :
-	- Email: [Email](2023ucp1600@mnit.ac.in)
-	- GitHub: [GitHub](https://github.com/FumioMax/TEST1.git)
+	- Email: [2023ucp1600@mnit.ac.in](2023ucp1600@mnit.ac.in)
+	- GitHub: [https://github.com/FumioMax/TEST1.git](https://github.com/FumioMax/TEST1.git)
 
 
 5. ![Image](imageFile1600.jpg)
