@@ -1,23 +1,31 @@
 # **PORTFOLIO WEBSITE**
+
 ---
 1. **ABOUT** : I am an aspiring Software Developer.
----
+
 
 2. **EDUCATION** : The educational qualifications are as follows -
- | S. No.|Type | Institute | Year |
- |-------|-----|-----------|------|
- |1.     |School|DAV, Batala|Till 2023|
- |2.     |College| MNIT, Jaipur| 2027|
+
+
+| S. No.|Type | Institute | Year |
+|-------|-----|-----------|------|
+|1.     |School|DAV, Batala|Till 2023|
+|2.     |College| MNIT, Jaipur| 2027|
  
 
 3. **INTERESTS** : 
+
  	- Web Development
  	- Software Development
  	- Data Analysis
+ 	
+ 	
 
 4. **Contact** :
 	- Email: 2023ucp1600@mnit.ac.in
 
-5. ![Image]{imageFile1600.jpj}
+
+
+5. ![Image](imageFile1600.jpj)
 
 
